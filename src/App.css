@@ -1,0 +1,96 @@
+body{
+  display: flex;
+  background-color: rgb(88, 86, 82);
+  justify-content: center;
+}
+#Head{
+  color: yellow;
+  font-size: 40px;
+  text-align: center;
+}
+#Container1{
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  width: 1100px;
+  height: 500px;
+  background-color: rgb(255, 242, 166);
+}
+#btn{
+  position:relative;
+  font-size: 15px;
+  bottom: 670px;
+  left: 350px;
+  padding: 18px 16px;
+}
+#btn1{
+  position:relative;
+  font-size: 15px;
+  bottom:  670px;
+ left: 500px;
+  padding: 18px 16px;
+}
+#title{
+  position: relative;
+  font-size: 30px;
+  font-weight: bold;
+  top: 10px;
+  left: 10px;
+}
+#titlesec{
+  position: relative;
+  font-size: 30px;
+  font-weight: bold;
+  top: 20px;
+  left: 10px;
+}
+#para1{
+  position: relative;
+  font-size: 28px;
+  left: 10px;
+  max-width: 600px;
+  min-height:600px;
+  overflow: hidden;
+  word-break: normal;
+}
+#img1{
+  position: relative;
+  width: 400px;
+  left: 670px;
+  bottom: 730px;
+}
+#parent1{
+  color: rgb(161, 47, 226);
+  background-color: chartreuse;
+  border-radius: 15px;
+  border: 3px solid green;
+  text-align: center;
+  width: 100px;
+  position: relative;
+  bottom: 600px;
+  left: 490px;
+}
+#btn12{
+  position:relative;
+  font-size: 15px;
+  bottom: 710px;
+  left: 350px;
+  padding: 18px 16px;
+}
+#btn2{
+  position:relative;
+  font-size: 15px;
+  bottom:  710px;
+ left: 500px;
+  padding: 18px 16px;
+}
+#parent2{
+  color: rgb(161, 47, 226);
+  background-color: chartreuse;
+  border-radius: 15px;
+  border: 3px solid green;
+  text-align: center;
+  width: 100px;
+  position: relative;
+  bottom: 640px;
+  left: 490px;
+}
